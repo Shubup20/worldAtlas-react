@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Noida, UttarPradesh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "9084437075"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "shubup20@gmail.com"
+  }
+]
